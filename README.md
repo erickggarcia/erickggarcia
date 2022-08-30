@@ -3,6 +3,7 @@
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/erick-garcia35308716b/)
 
 ![Erick GitHub stats](https://github-readme-stats.vercel.app/api?username=erickggarcia&show_icons=true&theme=dracula)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erickggarcia)](https://github.com/erickggarcia/github-readme-stats)
 
 ## Tecnologias que eu uso no meu dia-a-dia
